@@ -18,3 +18,8 @@ The script does not rely on checking folders or reading log files. Instead, it m
 3. Right-click the `.ps1` script and select **Run with PowerShell**.
 4. Accept the Administrator prompt (this is required by Windows to change process priorities).
 5. Leave the console window open. It will automatically monitor the process and close itself when the job is done.
+
+## Disclaimers
+It's a one-time use, it meens that you need to execute it every time you want to boost your download speed, I recommend you to use it only when you're in a hurry.
+
+This could also slightly affect the rest of your PC performance, so I do not recommend you to use it while playing on another game because it could result in FPS drops.
